@@ -1,0 +1,7 @@
+train: /content/drive/MyDrive/drone/images/train
+val: /content/drive/MyDrive/drone/images/val
+
+names: 
+  0: "Farol"
+  1: "Pneu"
+  2: "Roda"
