@@ -1,0 +1,6 @@
+train: ../../images/train/ 
+val: ../../images/val/  
+
+names: # Defina aqui suas labels
+  0: 'Maçã' 
+  # ...

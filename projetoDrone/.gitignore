@@ -1,0 +1,6 @@
+# YOLO
+
+/yolov5
+yolov5s.pt
+
+*.cache
